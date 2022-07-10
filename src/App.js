@@ -22,13 +22,13 @@ function App() {
   }
 
   const equalEffect = () => {
-    setCalc(result.toString())
+    setCalc(eval(calc))
     setResult("")
   }
 
   const delEffect = () => {
-    setCalc(eval(calc.slice(0, -1)))
-    setResult(calc.slice(0, -1))
+    setCalc((calc.slice(0, -1)))
+    setResult(eval(calc.slice(0, -1)))
   }
 
   const clearEffect = () => {
