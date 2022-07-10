@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/OmarSalah1911/Calculator.git/static/css/main.d86ed69a.css",
+    "main.js": "/OmarSalah1911/Calculator.git/static/js/main.dbdae363.js",
+    "index.html": "/OmarSalah1911/Calculator.git/index.html",
+    "main.d86ed69a.css.map": "/OmarSalah1911/Calculator.git/static/css/main.d86ed69a.css.map",
+    "main.dbdae363.js.map": "/OmarSalah1911/Calculator.git/static/js/main.dbdae363.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d86ed69a.css",
+    "static/js/main.dbdae363.js"
+  ]
+}
